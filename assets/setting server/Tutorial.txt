@@ -1,3 +1,0 @@
-1. Memilih Manage kemudian Add Roles and Features, atau klik langsung pilihan 2. Add roles and features
-
-2. Di tipe instalasi, dapat memilih lokal server dan pool server atau container sepert
