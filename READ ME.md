@@ -1,9 +1,3 @@
-
-<h1>Web Server IIS Menggunakan Windows Server 2022</h1>
-<label><a>Nama  : Agi Lobita J.M</a></label><br>
-<label><a>NIM   : 1202190031</a></label><br>
-<label><a>Kelas : IT 0201</a></label><br>
-<label><a>Tugas : UTS</a></label>
 <ol>
   <h3>Instalasi Windows Server 2022</h3>
   <li>Ketika file instalasi berhasil masuk, maka muncul untuk memilih bahasa untuk sistem</li>
